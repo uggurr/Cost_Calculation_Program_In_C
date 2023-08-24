@@ -1,0 +1,14 @@
+deneme ürün = slkfdlksjdflkjsdflkj lskdflkjsdflkjdsflkjdsf
+dnemee 2 = lsdkfjlskjdflksdjflsdkjflsdkjf
+dedelk 3 = lksdflksdfljksdlfjksdlfjksldkjfsldkjflksdf
+0| sleam asm = 000| selam merhaba = 04| merhaba ben = 0
+5| neden gec = 0
+6| ben bunu giricem = 0
+7| bir urun girdim = 0
+7| iki urun gşrdim = 0
+9| ben bunu girdim = 0
+9| sen neyi girdin = 0
+1| urun ekledim = 0
+2| tourn ekleme = 0
+14| selam ben = 0
+15| kimsin sen = 0
